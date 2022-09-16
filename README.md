@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1> Jéssica Chasko </h1> 
 
+- Irati-PR, BRASIL
+
+- Colégio Sesi
 <!--
 **jessicachasko/JessicaChasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
